@@ -1,2 +1,0 @@
-# ReactUseStateHook
-Created with CodeSandbox
